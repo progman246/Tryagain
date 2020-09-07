@@ -1,0 +1,13 @@
+C:\My First Project\simple calculator\bin\Debug\netcoreapp3.1\simple calculator.exe
+C:\My First Project\simple calculator\bin\Debug\netcoreapp3.1\simple calculator.deps.json
+C:\My First Project\simple calculator\bin\Debug\netcoreapp3.1\simple calculator.runtimeconfig.json
+C:\My First Project\simple calculator\bin\Debug\netcoreapp3.1\simple calculator.runtimeconfig.dev.json
+C:\My First Project\simple calculator\bin\Debug\netcoreapp3.1\simple calculator.dll
+C:\My First Project\simple calculator\bin\Debug\netcoreapp3.1\simple calculator.pdb
+C:\My First Project\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.csprojAssemblyReference.cache
+C:\My First Project\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.AssemblyInfoInputs.cache
+C:\My First Project\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.AssemblyInfo.cs
+C:\My First Project\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.csproj.CoreCompileInputs.cache
+C:\My First Project\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.dll
+C:\My First Project\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.pdb
+C:\My First Project\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.genruntimeconfig.cache
